@@ -108,5 +108,3 @@ This is now **fully optimized** with:
 ✅ **MATLAB**  
 ✅ **Arduino**  
 ✅ **C#**  
-
-Would you like any additional **custom sections**, such as a **cool profile banner** or a **Buy Me a Coffee** link? 🚀
